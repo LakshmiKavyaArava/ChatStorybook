@@ -1,7 +1,7 @@
 import Stack from "../components/Stack"
 
 export default {
-  title: "components/Stack",
+  title: "Components/Stack",
   component: Stack,
   argTypes: {
     numberOfChildren: { type: "number", defaultValue: 4 },
